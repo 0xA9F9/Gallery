@@ -10,4 +10,4 @@ This is a simple and elegant image gallery built with Vue.js. This project provi
    git clone https://github.com/devibragim/Gallery.git
 
 ## Demo
-[Demo](https://codepen.io/fujitawa/pen/yLQYaGr)
+[Demo](https://codepen.io/pirate-/pen/yLQYaGr)
