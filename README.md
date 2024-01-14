@@ -7,7 +7,7 @@ This is a simple and elegant image gallery built with Vue.js. This project provi
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/devibragim/Gallery.git
+   git clone https://github.com/0xA9F9/Gallery.git
 
 ## Demo
-[Demo](https://codepen.io/pirate-/pen/yLQYaGr)
+[Demo](https://codepen.io/0xA9F9/pen/yLQYaGr)
